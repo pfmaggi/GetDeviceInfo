@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Get Device Info</string>
+    <string name="electronic_serial_number">Device ESN:</string>
+    <string name="build_number">Build Number:</string>
+    <string name="device_name">Device:</string>
+
+</resources>
