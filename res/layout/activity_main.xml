@@ -47,4 +47,46 @@
         android:textSize="18sp"
         style="?android:listSeparatorTextViewStyle"
         />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/external_storage"
+        />
+    <TextView
+        android:id="@+id/external_storage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:textSize="18sp"
+        style="?android:listSeparatorTextViewStyle"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/internal_sdcard"
+        />
+    <TextView
+        android:id="@+id/internal_sdcard"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:textSize="18sp"
+        style="?android:listSeparatorTextViewStyle"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/true_sdcard"
+        />
+    <TextView
+        android:id="@+id/true_sdcard"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:textSize="18sp"
+        style="?android:listSeparatorTextViewStyle"
+        />
 </LinearLayout>

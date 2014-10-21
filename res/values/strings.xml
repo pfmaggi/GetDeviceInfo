@@ -5,5 +5,8 @@
     <string name="electronic_serial_number">Device ESN:</string>
     <string name="build_number">Build Number:</string>
     <string name="device_name">Device:</string>
-
+    <string name="external_storage">External Storage Directory:</string>
+    <string name="internal_sdcard">Internal SDCard Path:</string>
+    <string name="true_sdcard">True SDCard Path:</string>
+    
 </resources>
